@@ -43,5 +43,7 @@ album4.genre = "Prog Rock"
 album4.update
 album5.delete
 artist5.delete
+p Artist.find(artist2.id)
+p Album.find(album3.id)
 
 # pp Album.all()
