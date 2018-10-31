@@ -41,5 +41,7 @@ artist5.update
 pp album3.artist()
 album4.genre = "Prog Rock"
 album4.update
+album5.delete
+artist5.delete
 
 # pp Album.all()
